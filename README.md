@@ -7,3 +7,10 @@
 ## Network topology
 The following image represents the network topology design of the project:
 <img src="topology.png" alt="Network topology design"/>
+
+## Networking Technologies
+The main technologies that are used in this project are as follows:
+
+- VLAN
+- Routing
+- DHCP Server
