@@ -14,3 +14,15 @@ The main technologies that are used in this project are as follows:
 - VLAN
 - Routing
 - DHCP Server
+
+## Devices
+The main devices used in the network design are as follows:
+
+### Core Devices
+- Routers
+- Switches
+
+### End Devices
+- PCs
+- Printers
+- Servers
