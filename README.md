@@ -1,4 +1,4 @@
-# College-Network-Simulation
+# Network-Simulation
 - This is a project developed using Cisco Packet Tracer. 
 - This is a networking project. 
 - The project involves designing a network topology and configure the network devices to test the network traffic in a virtual environment. 
