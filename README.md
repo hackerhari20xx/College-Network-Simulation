@@ -7,7 +7,7 @@
 
 ## Network topology
 This is the network design of the project:
-<img src="topology.png" alt="Network topology design"/>
+<img src="network-topology.png" alt="Network topology design"/>
 
 ## Networking Technologies
 The main technologies used in this project are as follows:
