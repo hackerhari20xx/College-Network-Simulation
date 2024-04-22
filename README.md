@@ -16,6 +16,7 @@ The main technologies used in this project are as follows:
 - Routing
 - DHCP Server
 - QoS
+- HSRP
 
 ## Devices
 The main devices used in the network design are as follows:
