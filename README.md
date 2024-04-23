@@ -13,7 +13,7 @@ This is the network design of the project:
 The main technologies used in this project are as follows:
 
 - VLAN
-- Routing
+- Inter-VLAN Routing
 - DHCP Server
 - QoS
 - HSRP
